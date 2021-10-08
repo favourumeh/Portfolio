@@ -9,4 +9,4 @@ This portfolio highlights some of the Data Engineering and Data Science projects
 - Basketball Reference is an online depository of basketball statistics, game logs etc for different basketball leagues.  
 
 
-![alt text](https://github.com/favourumeh/Portfolio/blob/gh-pages/Cleaning%20Actions.png)
+![alt text](Cleaning%20Actions.png)
