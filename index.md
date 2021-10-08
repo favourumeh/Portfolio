@@ -7,3 +7,6 @@ This portfolio highlights some of the Data Engineering and Data Science projects
 - The stored data was then used in several machine learning projects namely regression and classification (see projects 2 and 3)  
 - The NBA is the top professional basketball league in North America. It was founded in 1947 and is currently home to the best basketball players in the world. 
 - Basketball Reference is an online depository of basketball statistics, game logs etc for different basketball leagues.  
+
+
+![alt text](https://github.com/favourumeh/DATA-PIPELINE/blob/main/Cleaning%20Actions.png)
