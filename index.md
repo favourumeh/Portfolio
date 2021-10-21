@@ -12,3 +12,4 @@ This portfolio highlights some of the Data Engineering and Data Science projects
 ![](/Cleaning%20Actions.png)
 ![](https://github.com/favourumeh/DATA-PIPELINE/blob/main/Excel%20file%20example.png)
 
+![](/images/Cleaning%20Actions.png)
