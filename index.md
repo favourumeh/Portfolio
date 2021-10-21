@@ -6,8 +6,9 @@ This portfolio highlights some of the Data Engineering and Data Science projects
 - The pipeline was used to store over 16,000 rows of per-game statistics of players in National Basketball Association (NBA) spanning 31 years (from 1990-2021)
 - The stored data was then used in several machine learning projects namely regression and classification (see projects 2 and 3)  
 - The NBA is the top professional basketball league in North America. It was founded in 1947 and is currently home to the best basketball players in the world. 
-- Basketball Reference is an online depository of basketball statistics, game logs etc for different basketball leagues. test 
+- Basketball Reference is an online depository of basketball statistics, game logs etc for different basketball leagues.
 
 
 ![](/Cleaning%20Actions.png)
 ![](https://github.com/favourumeh/DATA-PIPELINE/blob/main/Excel%20file%20example.png)
+![](https://github.com/favourumeh/Portfolio/blob/gh-pages/Cleaning%20Actions.png)
