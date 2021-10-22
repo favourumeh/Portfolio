@@ -19,7 +19,9 @@ This portfolio highlights some of the Data Engineering and Data Science projects
 
 - The models created can be used to assists NBA coaches in player development because the model acts as a predictor of a player's expected TOV. A player vastly outperforming their expected TOV (i.e. commits less TOV than expected) could indicate good ball retention skills which would mean that they require more on-ball possessions. It can also be used to pinpoint players who need more training in ball retention. 
 - The figure below shows displays the use of correlation plots for feature selection
-![](https://github.com/favourumeh/Multiple_Linear_Regression---Predicting-Turnovers-/blob/main/Images/Correlation%20plot.png)
+![](/Images/Correlation%20plot.png)
 
 ## Project 3 (Data Science): [Identifying the position of an NBA player](https://github.com/favourumeh/Identifying-Player-Position)
 ![](https://github.com/favourumeh/Identifying-Player-Position/blob/main/KNN/final%20images/tuning_k.png)
+![](https://github.com/favourumeh/Identifying-Player-Position/blob/main/Evaluation%20images/Confusion%20matrices%20for%20all%20non-ensemble%20models%20for%20evaluation%20data.png)
+![](https://github.com/favourumeh/Identifying-Player-Position/blob/main/Evaluation%20images/Confusion%20matrices%20for%20all%20ensemble%20models%20for%20evaluation%20data.png)
