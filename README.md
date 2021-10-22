@@ -44,5 +44,7 @@ This portfolio highlights some of the projects that I have undergone in 2021. Th
    - nature of the loading on the web and flange(bending or compression) 
 
 - This tool can be used by those with/without experience in Structural Engineering to perform quick design checks on the compression resistance of structural members
-- The figure below show a universal beam 
+- The figure below show a universal beam
 ![](/Images/UKB_compressive_load_image.png)
+
+Image reference: https://www.alcoengineering.co.uk/steel-universal-i-beams.html
