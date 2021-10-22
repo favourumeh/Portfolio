@@ -29,7 +29,7 @@ This portfolio highlights some of the Data Engineering and Data Science projects
     - three models used the individual algorithms mentioned above. They are called: 'KNN', 'log_reg' and 'GNB'
     - three more models were created using an ensemble approach. These ensemble models use hard voting with some minor tweaks which are explained in section 9. They are called: 'E_hv1', 'E_hv2' and 'E_hv_flex' 
  -  All models were evaluated by comparing each other against three classification metrics : precision, recall and accuracy. Their confusion matrices were also analysed to gauge how well each model performed for different labels (/classes). 
- -  Below are the summary confusion matrices for each model: 
+ -  Below are the confusion matrices for each model: 
 ![](/Images/Confusion_matrices_for_all_non-ensemble_models_for_evaluation_data.png)
 ![](/Images/Confusion_matrices_for_all_ensemble_models_for_evaluation_data.png)
 
