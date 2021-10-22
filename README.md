@@ -22,6 +22,6 @@ This portfolio highlights some of the Data Engineering and Data Science projects
 ![](/Images/Correlation_plot.png)
 
 ## Project 3 (Data Science): [Identifying the position of an NBA player](https://github.com/favourumeh/Identifying-Player-Position)
-![](https://github.com/favourumeh/Identifying-Player-Position/blob/main/KNN/final%20images/tuning_k.png)
+![](/Images/tuning_k.png)
 ![](/Images/Confusion_matrices_for_all_ensemble_models_for_evaluation_data.png)
 ![](/Images/Confusion_matrices_for_all_non-ensemble_models_for_evaluation_data.png)
