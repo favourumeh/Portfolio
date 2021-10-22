@@ -2,7 +2,7 @@
 This portfolio highlights some of the projects that I have undergone in 2021. They are mostly data project except for the one automation project. 
 
 ## Project 1 (Data Engineering): [Basketball Reference Data Pipeline](https://github.com/favourumeh/DATA-PIPELINE)
-- Created a data pipeline that can scrape and clean tabular statistical data from https://www.basketball-reference.com and store it in a local MySQL server and/or Excel workbook. 
+- Created a data pipeline that can scrape and clean tabular statistical data from the basketball-reference [website](https://www.basketball-reference.com) and store it in a local MySQL server and/or Excel workbook. 
 - The data in question is per-game statistics from the national Basketball Association (NBA) and it will be used to undergo regression and classifcation projects (see projects 2 and 3)
 - The NBA is the top professional basketball league in North America. It was founded in 1947 and is currently home to the best basketball players in the world. 
 - Before loading the data into CSV and MySQL a lot of cleaning and tranformative actions were undergone. The figure below shows the cleaning and transformative action undergone on the raw data
