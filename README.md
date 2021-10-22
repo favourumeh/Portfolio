@@ -2,7 +2,7 @@
 This portfolio highlights some of the Data Engineering and Data Science projects that I have undergone in 2021
 
 ## Project 1 (Data Engineering): [Basketball Reference Data Pipeline](https://github.com/favourumeh/DATA-PIPELINE)
-- Created a data pipeline that can scrape and clean tabular statistical data from BasketballReference.com and store it in a local MySQL server and/or Excel workbook. 
+- Created a data pipeline that can scrape and clean tabular statistical data from https://www.basketball-reference.com and store it in a local MySQL server and/or Excel workbook. 
 - The data in question is per-game statistics from the national Basketball Association (NBA) and it will be used to undergo regression and classifcation projects (see projects 2 and 3)
 - The NBA is the top professional basketball league in North America. It was founded in 1947 and is currently home to the best basketball players in the world. 
 - The figure below shows the cleaning and transformative action undergone on the raw data
@@ -22,6 +22,14 @@ This portfolio highlights some of the Data Engineering and Data Science projects
 ![](/Images/Correlation_plot.png)
 
 ## Project 3 (Data Science): [Identifying the position of an NBA player](https://github.com/favourumeh/Identifying-Player-Position)
-![](/Images/tuning_k.png)
-![](/Images/Confusion_matrices_for_all_ensemble_models_for_evaluation_data.png)
+ - Created a tool that enables an NBA scout to identify an NBA player's position based on their per 36minutes statistics using 6 classification models. 
+ - Data for this project was taken from basketballreference.com using the pipeline tool developed in project (Project 1). 
+ - This project uses three different classification algorithms: Naive Bayes, Logistic Regression and K Nearest Neighbours
+ - In total six models were created:
+    - three models used the individual algorithms mentioned above. They are called: 'KNN', 'log_reg' and 'GNB'
+    - three more models were created using an ensemble approach. These ensemble models use hard voting with some minor tweaks which are explained in section 9. They are called: 'E_hv1', 'E_hv2' and 'E_hv_flex' 
+ -  All models were evaluated by comparing each other against three classification metrics : precision, recall and accuracy. Their confusion matrices were also analysed to gauge how well each model performed for different labels (/classes). 
+ -  Below are the summary confusion matrices for each model: 
 ![](/Images/Confusion_matrices_for_all_non-ensemble_models_for_evaluation_data.png)
+![](/Images/Confusion_matrices_for_all_ensemble_models_for_evaluation_data.png)
+
