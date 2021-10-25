@@ -1,5 +1,5 @@
 # Favour Umeh Portfolio
-This portfolio highlights some of the projects that I have undergone in 2021. They are mostly data projects except for project 4 which is a Structural Engineering automation project. 
+This portfolio highlights some of the projects that I have undergone in 2021. They are mostly data projects except for project 4 which is an automation project focused on Structural Engineering. 
 
 ## Project 1 (Data Engineering): [Basketball Reference Data Pipeline](https://github.com/favourumeh/DATA-PIPELINE)
 - Created a data pipeline that can scrape and clean tabular statistical data from the basketball-reference [website](https://www.basketball-reference.com) and store it in a local MySQL server and/or Excel workbook. 
