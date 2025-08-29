@@ -40,3 +40,18 @@ This portfolio highlights my personal projects over the years. They are a mix be
 - The models created can be used to assists NBA coaches in player development because the model acts as a predictor of a player's expected TOV. A player vastly outperforming their expected TOV (i.e. commits less TOV than expected) could indicate good ball retention skills which would mean that they require more on-ball possessions. It can also be used to pinpoint players who need more training in ball retention. 
 - The figure below shows displays the use of correlation plots for feature selection
 ![](/Images/Correlation_plot.png)
+
+## Project 5 (Construction Automation): [Automating the Design of Compression Members](https://github.com/favourumeh/compression_resistance)
+- Created a tool that provides desk-based assessment of the adequacy of universal columns and beams (UKC and UKB) subjected to compressive loads. 
+- It uses the following information on the beam and loading conditions:  
+   - design compressive load applied on the member (in kN)
+   - span of the member(in m)
+   - young's modulus (in N/mm2 or MN/m2)
+   - steel grade
+   - member end connections (i.e. whether the member is pinned at both ends, fixed at both ends, pinned at one end (fixed at other end), etc)
+   - nature of the loading on the web and flange(bending or compression) 
+
+- This tool can be used by those with/without experience in Structural Engineering to perform quick design checks on the compression resistance of structural members
+- The figure below show a universal beam
+![](/Images/UKB_compressive_load_image.png)
+
