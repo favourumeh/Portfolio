@@ -9,7 +9,7 @@ This portfolio highlights my personal projects over the years. They are a mix be
 - Built RESTful API with 95% test coverage (Swagger docs here) handling: JWT authentication
 - Implemented CI/CD pipelines (including unit testing) for quick updates
 - Tech Stack: JS (React, Tanstack Query, DnD Kit), Python (Flask, SQLAlchemy, JWT), GitHub Action, MySQL
-
+![](/Images/plannerPage.png)
 ## Project 2 (Data Engineering): [Basketball Reference Data Pipeline](https://github.com/favourumeh/DATA-PIPELINE)
 - Created a data pipeline that can scrape and clean tabular statistical data from the basketball-reference [website](https://www.basketball-reference.com) and store it in a local MySQL server and/or Excel workbook. 
 - The data in question is per-game statistics from the national Basketball Association (NBA) and it will be used to undergo regression and classifcation projects (see projects 2 and 3)
